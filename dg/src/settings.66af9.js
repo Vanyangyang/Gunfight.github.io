@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-desktop",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/farm.fire",orientation:"",jsList:[],bundleVers:{internal:"279e0",main:"1e5a9"}};
